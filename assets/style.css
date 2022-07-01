@@ -17,7 +17,7 @@ body {
 .wrapper {
   width: 420px;
   border-radius: 7px;
-  background: #ffffff1a;
+  background: #191769;
   padding: 25px 28px 45px;
   box-shadow: 7px 7px 20px rgba(0, 0, 0, 0.05);
 }
@@ -138,7 +138,7 @@ ul li:last-child {
 }
 .content li .details span {
   font-size: 15px;
-  color: #7e7e7e;
+  color: #989898;
 }
 .synonym .details .list {
   display: flex;
